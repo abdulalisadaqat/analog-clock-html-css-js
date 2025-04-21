@@ -17,6 +17,9 @@ https://abdulalisadaqat.github.io/analog-clock-html-css-js/
 - **CSS** – for styling and layout
 - **JavaScript** – for real-time clock functionality
 
+🔄 Hands rotation concepts:  
+https://github.com/user-attachments/assets/5cdf23a4-30f5-43c6-9860-ca781838c762
+
 🚀 Getting Started
 
 To view the analog clock on your local machine:
