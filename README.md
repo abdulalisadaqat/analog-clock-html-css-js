@@ -2,6 +2,8 @@
 
 This is a simple analog clock built using HTML, CSS, and JavaScript. It visually represents the current time with hour, minute, and second hands — all updating in real-time!
 
+See the live preview at: `https://abdulalisadaqat.github.io/analog-clock-html-css-js/`  
+
 ## 🔍 Features
 
 - Functional analog clock with real-time updates
